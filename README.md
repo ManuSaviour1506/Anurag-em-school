@@ -21,11 +21,7 @@ Schools relying on developers for every content update.
 To address this, a custom CMS platform was built, allowing administrators to dynamically manage:
 
 News & announcements
-
-Staff & management profiles
-
-Student-related information
-
+awards 
 Image galleries & media
 
 The system ensures real-time updates, improved operational efficiency, and enhanced digital presence.
