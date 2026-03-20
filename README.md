@@ -107,7 +107,7 @@ backend/
 ---
 ## 📸 Project Preview
 
-The following screenshot highlights the user interface and dynamic content rendering of the Anurag EM School platform.
+
 
 <p align="center">
   <a href="https://res.cloudinary.com/ddgfjerss/image/upload/v1774007168/Screenshot_2026-03-20_at_5.15.49_PM_fqt6xq.png">
