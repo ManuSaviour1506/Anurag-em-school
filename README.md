@@ -29,11 +29,7 @@ Student-related information
 Image galleries & media
 
 The system ensures real-time updates, improved operational efficiency, and enhanced digital presence.
-
-🌐 **Live Website:** https://www.anuragschool.com  
-
 ---
-
 ## 🚀 Overview
 
 This project is a **custom Content Management System (CMS)** that enables school administrators to manage website content such as news, staff, students, and media without requiring technical knowledge.
@@ -107,6 +103,9 @@ Media Storage
 frontend/
 backend/
 
-# 👨‍💻 Author
-## Manu Saviour
-## Full Stack Developer (MERN)
+---
+<h3 align="center">👨‍💻 Manu Saviour</h3>
+<p align="center">
+  Full Stack Developer • Machine Learning • DevOps • Data Science
+</p>
+---
