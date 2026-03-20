@@ -12,10 +12,6 @@ The system includes a custom Content Management System (CMS) enabling administra
   <img src="https://img.shields.io/badge/Deployment-Vercel%20%7C%20Render-black?style=for-the-badge" />
 </p>
 
-<p align="center">
-  🚀 Production-ready CMS for educational institutions  
-</p>
-
 # 🚀 Project Overview
 
 This project was designed to solve a key problem:
@@ -65,16 +61,15 @@ It eliminates dependency on developers for updates and ensures real-time content
 
 ## 🧠 Tech Stack
 
-**Frontend**
-- React.js  
-- HTML, CSS, JavaScript  
+| Layer       | Technology |
+|------------|-----------|
+| Frontend   | React.js |
+| Backend    | Node.js, Express |
+| Database   | MongoDB |
+| Hosting    | Vercel, Render |
 
-**Backend**
-- Node.js  
-- Express.js  
+---
 
-**Database**
-- MongoDB  
 
 **Deployment**
 - Vercel (Frontend - CDN-based hosting)  
@@ -112,7 +107,6 @@ Media Storage
 frontend/
 backend/
 
-## 👨‍💻 Author
-
-# Manu Saviour
-# Full Stack Developer (MERN)
+# 👨‍💻 Author
+## Manu Saviour
+## Full Stack Developer (MERN)
