@@ -109,3 +109,18 @@ backend/
   Full Stack Developer • Machine Learning • DevOps • Data Science
 </p>
 ---
+## 📸 Project Preview
+
+The following screenshot highlights the user interface and dynamic content rendering of the Anurag EM School platform.
+
+<p align="center">
+  <a href="https://res.cloudinary.com/ddgfjerss/image/upload/v1774007168/Screenshot_2026-03-20_at_5.15.49_PM_fqt6xq.png">
+    <img src="https://res.cloudinary.com/ddgfjerss/image/upload/v1774007168/Screenshot_2026-03-20_at_5.15.49_PM_fqt6xq.png" 
+         alt="Anurag School UI" 
+         width="750"/>
+  </a>
+</p>
+
+<p align="center">
+  🚀 Built with performance, usability, and scalability in mind
+</p>
